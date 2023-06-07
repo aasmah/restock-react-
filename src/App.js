@@ -1,16 +1,12 @@
+import React from 'react';
 import './App.css';
-import Products from "./cart"
+import Products from "./components/products"
 
-
-// ReactDOM.render(<Products />, document.getElementById("root"));
 
 function App() {
   return (
-   
-      <Products><Products />
-  
+    <Products></Products>
   );
 }
-
 
 export default App;
