@@ -1,4 +1,4 @@
-const products = [
+const Products = [
  
     { name: "Apples_:", country: "Italy", cost: 3, instock: 10 },
     { name: "Oranges:", country: "Spain", cost: 4, instock: 3 },
