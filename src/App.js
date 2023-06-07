@@ -1,5 +1,5 @@
 import './App.css';
-import Products from "./cart2"
+import Products from "./cart"
 
 
 ReactDOM.render(<Products />, document.getElementById("root"));
